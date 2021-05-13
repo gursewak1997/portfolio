@@ -10,7 +10,7 @@
   "license": "MIT",
   "bugs": {
   },
-  "homepage": "http://gursewak1997.github.io/portfolio",
+  "homepage": "http://gursewak1997.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
