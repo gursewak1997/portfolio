@@ -30,7 +30,7 @@ $ npm install
 $ npm start
 ```
 
-## Technologies Used 
+## Technologies Used
 
 - [React](https://reactjs.org/)
 - [axios](https://www.npmjs.com/package/axios)
